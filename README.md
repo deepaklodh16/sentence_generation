@@ -1,1 +1,1 @@
-# sentence_generation
+# sentence_generation_using_GPT2
